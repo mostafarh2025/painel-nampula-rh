@@ -29,4 +29,4 @@ if uploaded_file:
 
 # Rodapé
 st.markdown("---")
-st.markdown("**© 2025 – Mostafa Carlos João** | Painel Nampula RH | Powered by Streamlit")
+st.markdown("**© 2025 – Mostafa Carlos João | Painel Nampula RH | Powered by Streamlit**")
